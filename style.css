@@ -1,0 +1,32 @@
+.con1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: yellowgreen;
+    padding: 15px;
+}
+.head{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+.con2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+}
+.flex-con{
+    background-color: cornflowerblue;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.flex-item{
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+}

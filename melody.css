@@ -1,0 +1,25 @@
+.flex-con{
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flex-item{
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.con1{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    flex-direction: row;
+    background-color: yellowgreen;
+}
+h1{
+    padding: 15px;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin-top: 0px;
+}
